@@ -1,6 +1,7 @@
 {
   "name": "atensus",
   "version": "0.1.0",
+  //comentado para teste = true
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
